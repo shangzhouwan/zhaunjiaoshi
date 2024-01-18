@@ -31,16 +31,16 @@ default = "版权声明：自由转载-非商用-非衍生-保持署名（创意
 
 ## Widgets
 [[widgets.homepage]]
-type = "搜索"
+type = "search"
 
 [[widgets.homepage]]
-type = "文章合集"
+type = "archives"
 
 [widgets.homepage.params]
 limit = 5
 
 [[widgets.homepage]]
-type = "分类"
+type = "categerys"
 
 [widgets.homepage.params]
 limit = 10
