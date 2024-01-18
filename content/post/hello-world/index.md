@@ -1,20 +1,16 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: 中国最美传统村落---南召转角石村
+description: 欢迎来到南召南召转角石村
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - 介绍
 tags:
-    - Example Tag
+    - 介绍
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+转角石村位于南召县马市坪乡。于2014年被评为“中国最美传统村落”。
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+   转角石村地处深山，远离尘世喧嚣，恍若世外桃源，青山环绕，绿水长流，青砖灰瓦，古貌遗风，民风淳朴，风景优美，好比人间仙境。村落建筑保存完整，现存房屋是明末以后修建的。该村坐落在宅墙内兴峰寺三级古建筑基址上，由村东和西寨墙外村西两部分组成。兴峰寺据传是明万历年间皇帝派一太监监工修建的，几百年来，历经沧桑，几度修建，现存山门一间；石牌坊一座上刻“世沐天恩”；碑碣四通，分别冠有“御览”、“圣谕”、“敕赐”字样。
