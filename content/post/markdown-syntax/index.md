@@ -1,150 +1,57 @@
 ---
-title: Markdown Syntax Guide
+title: 转角石村游记
 date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: 转角石村游记.
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - 游记
 categories:
-    - themes
-    - syntax
+    - 介绍
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+竹影婆娑，鸟鸣虫叫，与世隔绝的幽静小村……
 
-<!--more-->
+　　巨大的石碑，数不清的柱础，古朴壮观的石牌坊，还有那历史沧桑……
 
-## Headings
+　　多年前曾有一部很火的偶像剧名为《转角遇到爱》，转角一般指街巷等的拐弯处，是一个不起眼的地方，“转角遇到爱”是说爱会在不经意间来到你身边。因此当初闻南召县马市坪乡入选第三批中国传统村落的村子名为转角石村时，便有一种想去看看的冲动。
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+　　在这个秋染红叶的季节，本报《守望·传统村落》走进转角石村。不禁在想，在以宛如人间仙境而称著的转角石村，会有怎样的境遇？
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-## Paragraph
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+　　山路弯弯十八盘
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
-## Blockquotes
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+　　转角石村位于马市坪乡西北，地处伏牛山深处。原本以为乘坐四驱越野车可以翻山越岭直达村口，没想到在过了一条小河沟后，却被陡峭的山坡阻挡了前进的方向。“这就是小十八盘，要想进入转角石村，还要翻过大十八盘。翻越大小十八盘其实就是翻过两座山。”同行的向导马市坪乡城建中心副主任王辉说。“Z”字形的山路曲折向上，一个接一个的陡坡直至山顶。大小十八盘是河南越野车玩家的经典玩线，一路攀爬一路寻找车痕，对能开车上山的人惊讶之余只有佩服……
 
-### Blockquote without attribution
+　　天高云淡，路途中风光无限。满山的山茱萸从绿叶中探出头来，红嘟嘟的煞是可爱。春夏时毫不起眼的板栗树在这个时节也不可遏制地露出暗红色。下了小十八盘山，也就是翻过一座山，山间小平原仅有一户人家，大门紧锁，残留在门前的柴灰和方便面包装袋表明驴友们曾经的到访。
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+　　一路攀行两个多小时，终于到达大十八盘垭口。“‘十八盘’的极尽之处就是转角石村，翻下去就到了。”王辉说。站在垭口向下一望，转角石村隐约可见，就像一幅美丽的水墨画。
 
-### Blockquote with attribution
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+　　竹林深处有人家
 
-## Tables
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
 
-### Inline Markdown within tables
 
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
+　　下了垭口，有一大片竹林。穿过竹林，豁然开朗。村子依山而建，平均海拔970米，常住人口有13户80人，方圆十几里仅此一村。
 
-| A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
+　　大大小小的石块堆砌成的石堰拦出一方方台地，成为筑房的基础。铺条石为地基，青砖筑墙，小灰瓦覆顶，村里的十多座老房子都是硬山式建筑样式，是最传统的南阳民居。不同的是，这墙上的青砖有明代的砖，这地基有寺庙的柱础石、铺条石。“转角石村和兴峰寺其实是一个地方，房子大多建在兴峰寺遗址之上，不少建筑材料都来自于这座寺庙。”68岁的齐成发坐在家门口的老银杏树下，悠闲地摘着山韭菜。转角石村最早的村民是兴峰寺的佃户，住在寨墙之外，靠给寺庙种地、打长工为生。后来，寺毁了，庄子延伸到寺院旧址上。如今因修建天池电站上库水坝，村里人都搬到山外的移民村，大部分房子也因工程需要被拆，只剩下山腰上的五六座。
 
-## Code Blocks
-### Code block with backticks
+　　如今，齐成发的家成了小村保存最好的房子，门口的老银杏树也成了小村的标识。村道边一处简易的木板屋里，住着一对老夫妇，老先生编着竹筐，老伴在旁边静静地看着，“房子拆了，又不想下山，村里住着自在。”整个转角石村的留守村民也就这么四五个人了。
 
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
+　　转角石村依山傍水，环境舒适宜人。行走其间，突然发现这里的民居都不设院子，人与自然和谐相处，融会了天人合一的建筑理念，更感到这里的淳朴民风。
 
-### Code block indented with four spaces
+　　距离转角石村不远的山腰上，水坝建设基地正在施工，青翠的大山宛如被撕开一道口子，这个幽静的小村似乎要慢慢脱离曾经的宁静。
 
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+　　沧桑石碑说历史
 
-### Diff code block
 
-```diff
-[dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
-```
 
-### One line code block
+　　眺望远山竹林，王辉说，在村周围的山坡上有300余亩竹林，是修建兴峰寺时种下的。兴峰寺始建于明代，占地20余亩，殿宇高大，雕像辉煌，据传明代万历年间南阳府唐王的妹妹在此修行。明末战乱，寺院被焚，清代又**。十年**中，很多古迹被毁坏。
 
-```html
-<p>A paragraph</p>
-```
 
-## List Types
 
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+　　除了些许民居，历经数百年历史风霜的兴峰寺还存有山门一间，石牌坊一座，偏房一处和四座明代万历年间的石碑。一角堆放着许多不久前才被挖出来的大石条、马槽、石碾和数不清的石柱础。石牌坊古朴壮观，上刻“世沐天恩”四字。基址上由北向南分布有四通规模宏大的石碑，碑座、碑身、碑罩、碑帽保存完好，石碑顶部刻有“圣谕”、“御览”等字样……村民们离开了，世外桃源也不再与世隔绝了。沧桑变幻，往事如烟，只有依然挺立的石寨门却还在坚持着它的守护……
