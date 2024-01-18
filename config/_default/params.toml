@@ -27,20 +27,20 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+default = "版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）"
 
 ## Widgets
 [[widgets.homepage]]
-type = "search"
+type = "搜索"
 
 [[widgets.homepage]]
-type = "archives"
+type = "文章合集"
 
 [widgets.homepage.params]
 limit = 5
 
 [[widgets.homepage]]
-type = "categories"
+type = "分类"
 
 [widgets.homepage.params]
 limit = 10
