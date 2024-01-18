@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://shangzhouwan.github.com/cms"
+baseurl = "https://shangzhouwan.github.com"
 languageCode = "en-us"
 paginate = 5
 title = "转角石--美丽乡村欢迎你"
