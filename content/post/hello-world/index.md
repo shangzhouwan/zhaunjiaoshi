@@ -1,6 +1,6 @@
 ---
 title: 中国最美传统村落---南召转角石村
-description: 欢迎来到南召南召转角石村
+description: 欢迎来到大美南阳，中国最美传统村落-南召转角石村
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
@@ -10,6 +10,7 @@ tags:
     - 介绍
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
+欢迎来到大美南阳，中国最美传统村落-南召转角石村
 
 转角石村位于南召县马市坪乡。于2014年被评为“中国最美传统村落”。
 
